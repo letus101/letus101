@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letus101" alt="letus101" /></a> </p>
 
-- 📝 I regularly write articles on [ketaj.co](www.ketaj.co)
+- 📝 I regularly write articles on [ketaj.co](https://ketaj.co)
 
 - 📫 How to reach me **ketajyoussef@gmail.com**
 
